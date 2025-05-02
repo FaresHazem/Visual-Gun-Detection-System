@@ -64,3 +64,6 @@ The system allows configuration of:
 - OpenCV
 - NumPy
 - Matplotlib
+
+## 🆚 Feature Extraction Methods Compared
+In addition to Harris Corner Detection with FREAK descriptors, this project also explores and compares SIFT and ORB feature extraction methods. The results and a detailed comparison between SIFT, ORB, and Harris+FREAK are presented in the main notebook (`Visual_Gun_Detection_System.ipynb`).
